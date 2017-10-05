@@ -11,5 +11,7 @@ Requirements
 Quick start
 -----------
 1. `mvn spring-boot:run`
-3. Point your browser to [http://localhost:8080/](http://localhost:8080/)
+3. Point your browser to [http://localhost:8080/springbootsecurity](http://localhost:8080/)
+
+<br/>
 Credit >> https://github.com/bkielczewski/example-spring-boot-security
